@@ -51,7 +51,7 @@ A full-stack web application for tracking workout plans, logging daily progress,
 ## Project Structure
 
 ```
-rvwebsite/
+workouttracker/
 ├── backend/
 │   ├── config/
 │   │   └── db.js              # MongoDB connection
@@ -127,8 +127,8 @@ rvwebsite/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd rvwebsite
+git clone https://github.com/antp23/workouttracker.git
+cd workouttracker
 ```
 
 ### 2. Install Backend Dependencies
